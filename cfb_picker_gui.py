@@ -23,6 +23,7 @@ class CFBPickerGUI:
         # Initialize API
         self.api = CFBDataAPI()
         self.games = []
+        self.filtered_games = []
         
         # Create GUI elements
         self.create_widgets()
@@ -43,6 +44,33 @@ class CFBPickerGUI:
             font=("Helvetica", 16, "bold")
         )
         title_label.pack(pady=10)
+
+        # Search frame
+        search_frame = ttk.Frame(main_frame)
+        search_frame.pack(fill=X, padx=5, pady=5)
+
+        ttk.Label(
+            search_frame,
+            text="Search Teams:",
+            font=("Helvetica", 10)
+        ).pack(side=LEFT, padx=5)
+
+        self.search_var = tk.StringVar()
+        self.search_var.trace('w', self.on_search_change)
+        search_entry = ttk.Entry(
+            search_frame,
+            textvariable=self.search_var,
+            width=40
+        )
+        search_entry.pack(side=LEFT, padx=5)
+
+        # Clear search button
+        ttk.Button(
+            search_frame,
+            text="Clear",
+            command=lambda: self.search_var.set(""),
+            style="secondary.TButton"
+        ).pack(side=LEFT, padx=5)
 
         # Games list frame
         games_frame = ttk.LabelFrame(main_frame, text="Available FBS Games", padding="10")
@@ -104,6 +132,16 @@ class CFBPickerGUI:
             font=("Helvetica", 10)
         )
         self.week_label.pack(pady=5)
+
+    def on_search_change(self, *args):
+        """Handle search text changes"""
+        search_text = self.search_var.get().lower()
+        self.filtered_games = [
+            game for game in self.games
+            if search_text in game['home_team'].lower() 
+            or search_text in game['away_team'].lower()
+        ]
+        self.update_games_list()
 
     def check_api_key(self):
         """Check if API key exists and is valid"""
@@ -173,6 +211,7 @@ class CFBPickerGUI:
                     current['week'],
                     current['seasonType']
                 )
+                self.filtered_games = self.games.copy()
                 
                 # Update UI in main thread
                 self.root.after(0, self.update_games_list)
@@ -192,8 +231,8 @@ class CFBPickerGUI:
         for item in self.games_listbox.get_children():
             self.games_listbox.delete(item)
         
-        # Add new items
-        for game in self.games:
+        # Add filtered items
+        for game in self.filtered_games:
             self.games_listbox.insert(
                 "",
                 END,
