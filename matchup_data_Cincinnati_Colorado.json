@@ -1,0 +1,1408 @@
+{
+  "game_info": {
+    "id": 401636907,
+    "start_date": "2024-10-27T02:15:00.000Z",
+    "venue": "Folsom Field",
+    "home_team": "Colorado",
+    "away_team": "Cincinnati",
+    "home_conference": "Big 12",
+    "away_conference": "Big 12",
+    "season_type": "regular",
+    "pregame_win_probability": {
+      "season": 2024,
+      "seasonType": "regular",
+      "week": 9,
+      "gameId": 401636907,
+      "homeTeam": "Colorado",
+      "awayTeam": "Cincinnati",
+      "spread": -6.5,
+      "homeWinProb": 0.673
+    }
+  },
+  "betting": {
+    "current_lines": {
+      "id": 401636907,
+      "season": 2024,
+      "seasonType": "regular",
+      "week": 9,
+      "startDate": "2024-10-27T02:15:00.000Z",
+      "homeTeam": "Colorado",
+      "homeConference": "Big 12",
+      "homeScore": null,
+      "awayTeam": "Cincinnati",
+      "awayConference": "Big 12",
+      "awayScore": null,
+      "lines": [
+        {
+          "provider": "Bovada",
+          "spread": "-6.5",
+          "formattedSpread": "Colorado -6.5",
+          "spreadOpen": "-5.0",
+          "overUnder": "57",
+          "overUnderOpen": "56.5",
+          "homeMoneyline": -200,
+          "awayMoneyline": 170
+        },
+        {
+          "provider": "ESPN Bet",
+          "spread": "-6.5",
+          "formattedSpread": "Colorado -6.5",
+          "spreadOpen": "-4",
+          "overUnder": "57.5",
+          "overUnderOpen": "57.5",
+          "homeMoneyline": -250,
+          "awayMoneyline": 210
+        },
+        {
+          "provider": "DraftKings",
+          "spread": "-6.5",
+          "formattedSpread": "Colorado -6.5",
+          "spreadOpen": "-3",
+          "overUnder": "57",
+          "overUnderOpen": null,
+          "homeMoneyline": -238,
+          "awayMoneyline": 195
+        }
+      ]
+    },
+    "home_team_betting_history": [
+      {
+        "id": 401634206,
+        "season": 2024,
+        "seasonType": "regular",
+        "week": 1,
+        "startDate": "2024-08-30T00:00:00.000Z",
+        "homeTeam": "Colorado",
+        "homeConference": "Big 12",
+        "homeScore": 31,
+        "awayTeam": "North Dakota State",
+        "awayConference": "MVFC",
+        "awayScore": 26,
+        "lines": [
+          {
+            "provider": "ESPN Bet",
+            "spread": "-11.5",
+            "formattedSpread": "Colorado -11.5",
+            "spreadOpen": null,
+            "overUnder": "54.5",
+            "overUnderOpen": null,
+            "homeMoneyline": null,
+            "awayMoneyline": null
+          },
+          {
+            "provider": "Bovada",
+            "spread": "-9.5",
+            "formattedSpread": "Colorado -9.5",
+            "spreadOpen": "-9.0",
+            "overUnder": "60.5",
+            "overUnderOpen": "60.5",
+            "homeMoneyline": -360,
+            "awayMoneyline": 280
+          },
+          {
+            "provider": "DraftKings",
+            "spread": "-9",
+            "formattedSpread": "Colorado -9",
+            "spreadOpen": "-8",
+            "overUnder": "59",
+            "overUnderOpen": "59.5",
+            "homeMoneyline": -470,
+            "awayMoneyline": 360
+          }
+        ]
+      },
+      {
+        "id": 401628467,
+        "season": 2024,
+        "seasonType": "regular",
+        "week": 2,
+        "startDate": "2024-09-07T23:30:00.000Z",
+        "homeTeam": "Nebraska",
+        "homeConference": "Big Ten",
+        "homeScore": 28,
+        "awayTeam": "Colorado",
+        "awayConference": "Big 12",
+        "awayScore": 10,
+        "lines": [
+          {
+            "provider": "ESPN Bet",
+            "spread": "-6.5",
+            "formattedSpread": "Nebraska -6.5",
+            "spreadOpen": "-7.5",
+            "overUnder": "55.5",
+            "overUnderOpen": "58.5",
+            "homeMoneyline": -240,
+            "awayMoneyline": 200
+          },
+          {
+            "provider": "DraftKings",
+            "spread": "-7",
+            "formattedSpread": "Nebraska -7",
+            "spreadOpen": "-6.5",
+            "overUnder": "56",
+            "overUnderOpen": null,
+            "homeMoneyline": -225,
+            "awayMoneyline": 185
+          },
+          {
+            "provider": "Bovada",
+            "spread": "-6.5",
+            "formattedSpread": "Nebraska -6.5",
+            "spreadOpen": "-7.0",
+            "overUnder": "55.0",
+            "overUnderOpen": "56.5",
+            "homeMoneyline": -280,
+            "awayMoneyline": 230
+          }
+        ]
+      },
+      {
+        "id": 401636861,
+        "season": 2024,
+        "seasonType": "regular",
+        "week": 3,
+        "startDate": "2024-09-14T23:30:00.000Z",
+        "homeTeam": "Colorado State",
+        "homeConference": "Mountain West",
+        "homeScore": 9,
+        "awayTeam": "Colorado",
+        "awayConference": "Big 12",
+        "awayScore": 28,
+        "lines": [
+          {
+            "provider": "ESPN Bet",
+            "spread": "7.5",
+            "formattedSpread": "Colorado -7.5",
+            "spreadOpen": "7.5",
+            "overUnder": "58.5",
+            "overUnderOpen": null,
+            "homeMoneyline": 240,
+            "awayMoneyline": -290
+          },
+          {
+            "provider": "Bovada",
+            "spread": "7.5",
+            "formattedSpread": "Colorado -7.5",
+            "spreadOpen": "8.0",
+            "overUnder": "59.5",
+            "overUnderOpen": "58.0",
+            "homeMoneyline": 250,
+            "awayMoneyline": -300
+          },
+          {
+            "provider": "DraftKings",
+            "spread": "7.5",
+            "formattedSpread": "Colorado -7.5",
+            "spreadOpen": "7.5",
+            "overUnder": "58.5",
+            "overUnderOpen": null,
+            "homeMoneyline": 245,
+            "awayMoneyline": -305
+          }
+        ]
+      },
+      {
+        "id": 401636874,
+        "season": 2024,
+        "seasonType": "regular",
+        "week": 4,
+        "startDate": "2024-09-22T00:00:00.000Z",
+        "homeTeam": "Colorado",
+        "homeConference": "Big 12",
+        "homeScore": 38,
+        "awayTeam": "Baylor",
+        "awayConference": "Big 12",
+        "awayScore": 31,
+        "lines": [
+          {
+            "provider": "ESPN Bet",
+            "spread": "-2.5",
+            "formattedSpread": "Colorado -2.5",
+            "spreadOpen": "-1.5",
+            "overUnder": "54.5",
+            "overUnderOpen": "54.5",
+            "homeMoneyline": -130,
+            "awayMoneyline": 110
+          },
+          {
+            "provider": "Bovada",
+            "spread": "-2.0",
+            "formattedSpread": "Colorado -2.0",
+            "spreadOpen": "-1.0",
+            "overUnder": "51.5",
+            "overUnderOpen": "54.0",
+            "homeMoneyline": -125,
+            "awayMoneyline": 105
+          },
+          {
+            "provider": "DraftKings",
+            "spread": "-2.5",
+            "formattedSpread": "Colorado -2.5",
+            "spreadOpen": null,
+            "overUnder": "52.5",
+            "overUnderOpen": null,
+            "homeMoneyline": -135,
+            "awayMoneyline": 114
+          }
+        ]
+      },
+      {
+        "id": 401636885,
+        "season": 2024,
+        "seasonType": "regular",
+        "week": 5,
+        "startDate": "2024-09-28T19:30:00.000Z",
+        "homeTeam": "UCF",
+        "homeConference": "Big 12",
+        "homeScore": 21,
+        "awayTeam": "Colorado",
+        "awayConference": "Big 12",
+        "awayScore": 48,
+        "lines": [
+          {
+            "provider": "Bovada",
+            "spread": "-12.5",
+            "formattedSpread": "UCF -12.5",
+            "spreadOpen": "-15.0",
+            "overUnder": "60.5",
+            "overUnderOpen": "63.5",
+            "homeMoneyline": -650,
+            "awayMoneyline": 450
+          },
+          {
+            "provider": "ESPN Bet",
+            "spread": "-12.5",
+            "formattedSpread": "UCF -12.5",
+            "spreadOpen": "-14",
+            "overUnder": "59.5",
+            "overUnderOpen": "63.5",
+            "homeMoneyline": -525,
+            "awayMoneyline": 400
+          },
+          {
+            "provider": "DraftKings",
+            "spread": "-12.5",
+            "formattedSpread": "UCF -12.5",
+            "spreadOpen": "-11",
+            "overUnder": "60.5",
+            "overUnderOpen": null,
+            "homeMoneyline": -455,
+            "awayMoneyline": 350
+          }
+        ]
+      },
+      {
+        "id": 401636894,
+        "season": 2024,
+        "seasonType": "regular",
+        "week": 7,
+        "startDate": "2024-10-13T02:15:00.000Z",
+        "homeTeam": "Colorado",
+        "homeConference": "Big 12",
+        "homeScore": 28,
+        "awayTeam": "Kansas State",
+        "awayConference": "Big 12",
+        "awayScore": 31,
+        "lines": [
+          {
+            "provider": "ESPN Bet",
+            "spread": "3.5",
+            "formattedSpread": "Kansas State -3.5",
+            "spreadOpen": "6",
+            "overUnder": "54.5",
+            "overUnderOpen": "56.5",
+            "homeMoneyline": 135,
+            "awayMoneyline": -155
+          },
+          {
+            "provider": "Bovada",
+            "spread": "3.5",
+            "formattedSpread": "Kansas State -3.5",
+            "spreadOpen": "6.5",
+            "overUnder": "55",
+            "overUnderOpen": "56.5",
+            "homeMoneyline": 180,
+            "awayMoneyline": -220
+          },
+          {
+            "provider": "DraftKings",
+            "spread": "3.5",
+            "formattedSpread": "Kansas State -3.5",
+            "spreadOpen": "6",
+            "overUnder": "55.5",
+            "overUnderOpen": null,
+            "homeMoneyline": 130,
+            "awayMoneyline": -155
+          }
+        ]
+      },
+      {
+        "id": 401636897,
+        "season": 2024,
+        "seasonType": "regular",
+        "week": 8,
+        "startDate": "2024-10-19T20:00:00.000Z",
+        "homeTeam": "Arizona",
+        "homeConference": "Big 12",
+        "homeScore": 7,
+        "awayTeam": "Colorado",
+        "awayConference": "Big 12",
+        "awayScore": 34,
+        "lines": [
+          {
+            "provider": "ESPN Bet",
+            "spread": "-2.5",
+            "formattedSpread": "Arizona -2.5",
+            "spreadOpen": "-3.5",
+            "overUnder": "56.5",
+            "overUnderOpen": "55.5",
+            "homeMoneyline": -130,
+            "awayMoneyline": 110
+          },
+          {
+            "provider": "Bovada",
+            "spread": "-2.5",
+            "formattedSpread": "Arizona -2.5",
+            "spreadOpen": "-4.0",
+            "overUnder": "57.5",
+            "overUnderOpen": "56",
+            "homeMoneyline": -185,
+            "awayMoneyline": 160
+          },
+          {
+            "provider": "DraftKings",
+            "spread": "-2.5",
+            "formattedSpread": "Arizona -2.5",
+            "spreadOpen": "-4",
+            "overUnder": "57.5",
+            "overUnderOpen": null,
+            "homeMoneyline": -135,
+            "awayMoneyline": 114
+          }
+        ]
+      },
+      {
+        "id": 401636907,
+        "season": 2024,
+        "seasonType": "regular",
+        "week": 9,
+        "startDate": "2024-10-27T02:15:00.000Z",
+        "homeTeam": "Colorado",
+        "homeConference": "Big 12",
+        "homeScore": null,
+        "awayTeam": "Cincinnati",
+        "awayConference": "Big 12",
+        "awayScore": null,
+        "lines": [
+          {
+            "provider": "ESPN Bet",
+            "spread": "-6.5",
+            "formattedSpread": "Colorado -6.5",
+            "spreadOpen": "-4",
+            "overUnder": "57.5",
+            "overUnderOpen": "57.5",
+            "homeMoneyline": -250,
+            "awayMoneyline": 210
+          },
+          {
+            "provider": "Bovada",
+            "spread": "-6.5",
+            "formattedSpread": "Colorado -6.5",
+            "spreadOpen": "-5.0",
+            "overUnder": "57",
+            "overUnderOpen": "56.5",
+            "homeMoneyline": -200,
+            "awayMoneyline": 170
+          },
+          {
+            "provider": "DraftKings",
+            "spread": "-6.5",
+            "formattedSpread": "Colorado -6.5",
+            "spreadOpen": "-3",
+            "overUnder": "57",
+            "overUnderOpen": null,
+            "homeMoneyline": -238,
+            "awayMoneyline": 195
+          }
+        ]
+      },
+      {
+        "id": 401636921,
+        "season": 2024,
+        "seasonType": "regular",
+        "week": 11,
+        "startDate": "2024-11-09T05:00:00.000Z",
+        "homeTeam": "Texas Tech",
+        "homeConference": "Big 12",
+        "homeScore": null,
+        "awayTeam": "Colorado",
+        "awayConference": "Big 12",
+        "awayScore": null,
+        "lines": []
+      },
+      {
+        "id": 401636925,
+        "season": 2024,
+        "seasonType": "regular",
+        "week": 12,
+        "startDate": "2024-11-16T05:00:00.000Z",
+        "homeTeam": "Colorado",
+        "homeConference": "Big 12",
+        "homeScore": null,
+        "awayTeam": "Utah",
+        "awayConference": "Big 12",
+        "awayScore": null,
+        "lines": [
+          {
+            "provider": "DraftKings",
+            "spread": "8",
+            "formattedSpread": "Utah -8",
+            "spreadOpen": "8",
+            "overUnder": null,
+            "overUnderOpen": null,
+            "homeMoneyline": null,
+            "awayMoneyline": null
+          },
+          {
+            "provider": "Bovada",
+            "spread": "8.0",
+            "formattedSpread": "Utah -8.0",
+            "spreadOpen": null,
+            "overUnder": "59.5",
+            "overUnderOpen": null,
+            "homeMoneyline": 240,
+            "awayMoneyline": -290
+          }
+        ]
+      },
+      {
+        "id": 401636932,
+        "season": 2024,
+        "seasonType": "regular",
+        "week": 13,
+        "startDate": "2024-11-23T05:00:00.000Z",
+        "homeTeam": "Kansas",
+        "homeConference": "Big 12",
+        "homeScore": null,
+        "awayTeam": "Colorado",
+        "awayConference": "Big 12",
+        "awayScore": null,
+        "lines": []
+      },
+      {
+        "id": 401636938,
+        "season": 2024,
+        "seasonType": "regular",
+        "week": 14,
+        "startDate": "2024-11-29T17:00:00.000Z",
+        "homeTeam": "Colorado",
+        "homeConference": "Big 12",
+        "homeScore": null,
+        "awayTeam": "Oklahoma State",
+        "awayConference": "Big 12",
+        "awayScore": null,
+        "lines": []
+      }
+    ],
+    "away_team_betting_history": [
+      {
+        "id": 401628591,
+        "season": 2024,
+        "seasonType": "regular",
+        "week": 1,
+        "startDate": "2024-08-31T18:30:00.000Z",
+        "homeTeam": "Cincinnati",
+        "homeConference": "Big 12",
+        "homeScore": 38,
+        "awayTeam": "Towson",
+        "awayConference": "CAA",
+        "awayScore": 20,
+        "lines": [
+          {
+            "provider": "ESPN Bet",
+            "spread": "-33.5",
+            "formattedSpread": "Cincinnati -33.5",
+            "spreadOpen": null,
+            "overUnder": "56.5",
+            "overUnderOpen": null,
+            "homeMoneyline": null,
+            "awayMoneyline": null
+          }
+        ]
+      },
+      {
+        "id": 401635538,
+        "season": 2024,
+        "seasonType": "regular",
+        "week": 2,
+        "startDate": "2024-09-07T16:00:00.000Z",
+        "homeTeam": "Cincinnati",
+        "homeConference": "Big 12",
+        "homeScore": 27,
+        "awayTeam": "Pittsburgh",
+        "awayConference": "ACC",
+        "awayScore": 28,
+        "lines": [
+          {
+            "provider": "ESPN Bet",
+            "spread": "2.5",
+            "formattedSpread": "Pittsburgh -2.5",
+            "spreadOpen": "-2",
+            "overUnder": "62.5",
+            "overUnderOpen": "63.5",
+            "homeMoneyline": -125,
+            "awayMoneyline": 105
+          },
+          {
+            "provider": "DraftKings",
+            "spread": "-2",
+            "formattedSpread": "Cincinnati -2",
+            "spreadOpen": "-2.5",
+            "overUnder": "62.5",
+            "overUnderOpen": "59",
+            "homeMoneyline": -122,
+            "awayMoneyline": 102
+          },
+          {
+            "provider": "Bovada",
+            "spread": "-2.0",
+            "formattedSpread": "Cincinnati -2.0",
+            "spreadOpen": "-2.0",
+            "overUnder": "62.0",
+            "overUnderOpen": "59.5",
+            "homeMoneyline": -125,
+            "awayMoneyline": 105
+          }
+        ]
+      },
+      {
+        "id": 401636865,
+        "season": 2024,
+        "seasonType": "regular",
+        "week": 3,
+        "startDate": "2024-09-14T16:00:00.000Z",
+        "homeTeam": "Miami (OH)",
+        "homeConference": "Mid-American",
+        "homeScore": 16,
+        "awayTeam": "Cincinnati",
+        "awayConference": "Big 12",
+        "awayScore": 27,
+        "lines": [
+          {
+            "provider": "DraftKings",
+            "spread": "2.5",
+            "formattedSpread": "Cincinnati -2.5",
+            "spreadOpen": "2.5",
+            "overUnder": "45.5",
+            "overUnderOpen": "45",
+            "homeMoneyline": 130,
+            "awayMoneyline": -155
+          },
+          {
+            "provider": "Bovada",
+            "spread": "3.0",
+            "formattedSpread": "Cincinnati -3.0",
+            "spreadOpen": "3.5",
+            "overUnder": "47.5",
+            "overUnderOpen": "46.5",
+            "homeMoneyline": 120,
+            "awayMoneyline": -140
+          },
+          {
+            "provider": "ESPN Bet",
+            "spread": "3.5",
+            "formattedSpread": "Cincinnati -3.5",
+            "spreadOpen": "2",
+            "overUnder": "47.5",
+            "overUnderOpen": "45.5",
+            "homeMoneyline": 130,
+            "awayMoneyline": -150
+          }
+        ]
+      },
+      {
+        "id": 401636873,
+        "season": 2024,
+        "seasonType": "regular",
+        "week": 4,
+        "startDate": "2024-09-21T16:00:00.000Z",
+        "homeTeam": "Cincinnati",
+        "homeConference": "Big 12",
+        "homeScore": 34,
+        "awayTeam": "Houston",
+        "awayConference": "Big 12",
+        "awayScore": 0,
+        "lines": [
+          {
+            "provider": "ESPN Bet",
+            "spread": "-4",
+            "formattedSpread": "Cincinnati -4",
+            "spreadOpen": "-5.5",
+            "overUnder": "47.5",
+            "overUnderOpen": "48.5",
+            "homeMoneyline": -175,
+            "awayMoneyline": 150
+          },
+          {
+            "provider": "Bovada",
+            "spread": "-3.5",
+            "formattedSpread": "Cincinnati -3.5",
+            "spreadOpen": "-5.5",
+            "overUnder": "48.0",
+            "overUnderOpen": "48.5",
+            "homeMoneyline": -170,
+            "awayMoneyline": 145
+          },
+          {
+            "provider": "DraftKings",
+            "spread": "-4",
+            "formattedSpread": "Cincinnati -4",
+            "spreadOpen": null,
+            "overUnder": "47.5",
+            "overUnderOpen": null,
+            "homeMoneyline": -170,
+            "awayMoneyline": 142
+          }
+        ]
+      },
+      {
+        "id": 401636884,
+        "season": 2024,
+        "seasonType": "regular",
+        "week": 5,
+        "startDate": "2024-09-29T00:00:00.000Z",
+        "homeTeam": "Texas Tech",
+        "homeConference": "Big 12",
+        "homeScore": 44,
+        "awayTeam": "Cincinnati",
+        "awayConference": "Big 12",
+        "awayScore": 41,
+        "lines": [
+          {
+            "provider": "Bovada",
+            "spread": "-3.0",
+            "formattedSpread": "Texas Tech -3.0",
+            "spreadOpen": "-2.5",
+            "overUnder": "60",
+            "overUnderOpen": "57.5",
+            "homeMoneyline": -145,
+            "awayMoneyline": 125
+          },
+          {
+            "provider": "ESPN Bet",
+            "spread": "-3.5",
+            "formattedSpread": "Texas Tech -3.5",
+            "spreadOpen": "-3.5",
+            "overUnder": "59.5",
+            "overUnderOpen": "58.5",
+            "homeMoneyline": -165,
+            "awayMoneyline": 140
+          },
+          {
+            "provider": "DraftKings",
+            "spread": "-3",
+            "formattedSpread": "Texas Tech -3",
+            "spreadOpen": "-5",
+            "overUnder": "60",
+            "overUnderOpen": null,
+            "homeMoneyline": -155,
+            "awayMoneyline": 130
+          }
+        ]
+      },
+      {
+        "id": 401636895,
+        "season": 2024,
+        "seasonType": "regular",
+        "week": 7,
+        "startDate": "2024-10-12T19:30:00.000Z",
+        "homeTeam": "UCF",
+        "homeConference": "Big 12",
+        "homeScore": 13,
+        "awayTeam": "Cincinnati",
+        "awayConference": "Big 12",
+        "awayScore": 19,
+        "lines": [
+          {
+            "provider": "ESPN Bet",
+            "spread": "-2.5",
+            "formattedSpread": "UCF -2.5",
+            "spreadOpen": "-3.5",
+            "overUnder": "57.5",
+            "overUnderOpen": "58.5",
+            "homeMoneyline": -130,
+            "awayMoneyline": 110
+          },
+          {
+            "provider": "Bovada",
+            "spread": "-2.5",
+            "formattedSpread": "UCF -2.5",
+            "spreadOpen": "-3.5",
+            "overUnder": "58",
+            "overUnderOpen": "58.5",
+            "homeMoneyline": -175,
+            "awayMoneyline": 150
+          },
+          {
+            "provider": "DraftKings",
+            "spread": "-2",
+            "formattedSpread": "UCF -2",
+            "spreadOpen": "-7.5",
+            "overUnder": "58",
+            "overUnderOpen": null,
+            "homeMoneyline": -125,
+            "awayMoneyline": 105
+          }
+        ]
+      },
+      {
+        "id": 401636899,
+        "season": 2024,
+        "seasonType": "regular",
+        "week": 8,
+        "startDate": "2024-10-19T16:00:00.000Z",
+        "homeTeam": "Cincinnati",
+        "homeConference": "Big 12",
+        "homeScore": 24,
+        "awayTeam": "Arizona State",
+        "awayConference": "Big 12",
+        "awayScore": 14,
+        "lines": [
+          {
+            "provider": "ESPN Bet",
+            "spread": "-4.5",
+            "formattedSpread": "Cincinnati -4.5",
+            "spreadOpen": "-3",
+            "overUnder": "50.5",
+            "overUnderOpen": "53.5",
+            "homeMoneyline": -225,
+            "awayMoneyline": 190
+          },
+          {
+            "provider": "Bovada",
+            "spread": "-5.0",
+            "formattedSpread": "Cincinnati -5.0",
+            "spreadOpen": "-3.0",
+            "overUnder": "51.5",
+            "overUnderOpen": "53.5",
+            "homeMoneyline": -145,
+            "awayMoneyline": 125
+          },
+          {
+            "provider": "DraftKings",
+            "spread": "-5.5",
+            "formattedSpread": "Cincinnati -5.5",
+            "spreadOpen": "-3",
+            "overUnder": "51",
+            "overUnderOpen": null,
+            "homeMoneyline": -205,
+            "awayMoneyline": 170
+          }
+        ]
+      },
+      {
+        "id": 401636907,
+        "season": 2024,
+        "seasonType": "regular",
+        "week": 9,
+        "startDate": "2024-10-27T02:15:00.000Z",
+        "homeTeam": "Colorado",
+        "homeConference": "Big 12",
+        "homeScore": null,
+        "awayTeam": "Cincinnati",
+        "awayConference": "Big 12",
+        "awayScore": null,
+        "lines": [
+          {
+            "provider": "ESPN Bet",
+            "spread": "-6.5",
+            "formattedSpread": "Colorado -6.5",
+            "spreadOpen": "-4",
+            "overUnder": "57.5",
+            "overUnderOpen": "57.5",
+            "homeMoneyline": -250,
+            "awayMoneyline": 210
+          },
+          {
+            "provider": "Bovada",
+            "spread": "-6.5",
+            "formattedSpread": "Colorado -6.5",
+            "spreadOpen": "-5.0",
+            "overUnder": "57",
+            "overUnderOpen": "56.5",
+            "homeMoneyline": -200,
+            "awayMoneyline": 170
+          },
+          {
+            "provider": "DraftKings",
+            "spread": "-6.5",
+            "formattedSpread": "Colorado -6.5",
+            "spreadOpen": "-3",
+            "overUnder": "57",
+            "overUnderOpen": null,
+            "homeMoneyline": -238,
+            "awayMoneyline": 195
+          }
+        ]
+      },
+      {
+        "id": 401636918,
+        "season": 2024,
+        "seasonType": "regular",
+        "week": 11,
+        "startDate": "2024-11-09T05:00:00.000Z",
+        "homeTeam": "Cincinnati",
+        "homeConference": "Big 12",
+        "homeScore": null,
+        "awayTeam": "West Virginia",
+        "awayConference": "Big 12",
+        "awayScore": null,
+        "lines": []
+      },
+      {
+        "id": 401636926,
+        "season": 2024,
+        "seasonType": "regular",
+        "week": 12,
+        "startDate": "2024-11-16T05:00:00.000Z",
+        "homeTeam": "Iowa State",
+        "homeConference": "Big 12",
+        "homeScore": null,
+        "awayTeam": "Cincinnati",
+        "awayConference": "Big 12",
+        "awayScore": null,
+        "lines": []
+      },
+      {
+        "id": 401636933,
+        "season": 2024,
+        "seasonType": "regular",
+        "week": 13,
+        "startDate": "2024-11-23T05:00:00.000Z",
+        "homeTeam": "Kansas State",
+        "homeConference": "Big 12",
+        "homeScore": null,
+        "awayTeam": "Cincinnati",
+        "awayConference": "Big 12",
+        "awayScore": null,
+        "lines": []
+      },
+      {
+        "id": 401636943,
+        "season": 2024,
+        "seasonType": "regular",
+        "week": 14,
+        "startDate": "2024-11-30T05:00:00.000Z",
+        "homeTeam": "Cincinnati",
+        "homeConference": "Big 12",
+        "homeScore": null,
+        "awayTeam": "TCU",
+        "awayConference": "Big 12",
+        "awayScore": null,
+        "lines": []
+      }
+    ]
+  },
+  "matchup_history": {
+    "team1": "Colorado",
+    "team2": "Cincinnati",
+    "team1Wins": 1,
+    "team2Wins": 0,
+    "ties": 0,
+    "games": [
+      {
+        "season": 1972,
+        "week": 2,
+        "seasonType": "regular",
+        "date": "1972-09-16T00:00:00.000Z",
+        "neutralSite": false,
+        "venue": null,
+        "homeTeam": "Colorado",
+        "homeScore": 56,
+        "awayTeam": "Cincinnati",
+        "awayScore": 14,
+        "winner": "Colorado"
+      }
+    ]
+  },
+  "home_team_data": {
+    "season_stats": {
+      "season": 2024,
+      "team": "Colorado",
+      "conference": "Big 12",
+      "offense": {
+        "plays": 459,
+        "drives": 84,
+        "ppa": 0.2212421937520674,
+        "totalPPA": 101.55016693219895,
+        "successRate": 0.4596949891067538,
+        "explosiveness": 1.2836036113962912,
+        "powerSuccess": 0.7878787878787878,
+        "stuffRate": 0.1952662721893491,
+        "lineYards": 2.7390532544378696,
+        "lineYardsTotal": 463,
+        "secondLevelYards": 0.8816568047337278,
+        "secondLevelYardsTotal": 149,
+        "openFieldYards": 0.7869822485207101,
+        "openFieldYardsTotal": 133,
+        "totalOpportunies": 42,
+        "pointsPerOpportunity": 4.095238095238095,
+        "fieldPosition": {
+          "averageStart": 69.8,
+          "averagePredictedPoints": 1.393
+        },
+        "havoc": {
+          "total": 0.17647058823529413,
+          "frontSeven": 0.1111111111111111,
+          "db": 0.06535947712418301
+        },
+        "standardDowns": {
+          "rate": 0.6840958605664488,
+          "ppa": 0.13485408840500254,
+          "successRate": 0.5127388535031847,
+          "explosiveness": 1.0657045179039917
+        },
+        "passingDowns": {
+          "rate": 0.3159041394335512,
+          "ppa": 0.4083171253312286,
+          "successRate": 0.3448275862068966,
+          "explosiveness": 1.985238692441496
+        },
+        "rushingPlays": {
+          "rate": 0.3681917211328976,
+          "ppa": 0.10037836581171636,
+          "totalPPA": 16.963943822180063,
+          "successRate": 0.4378698224852071,
+          "explosiveness": 0.9157671088103642
+        },
+        "passingPlays": {
+          "rate": 0.6318082788671024,
+          "ppa": 0.2916766314138582,
+          "totalPPA": 84.58622311001888,
+          "successRate": 0.4724137931034483,
+          "explosiveness": 1.4822890215521936
+        }
+      },
+      "defense": {
+        "plays": 467,
+        "drives": 82,
+        "ppa": 0.08702954194873527,
+        "totalPPA": 40.64279609005937,
+        "successRate": 0.38329764453961457,
+        "explosiveness": 1.31220437305197,
+        "powerSuccess": 0.78125,
+        "stuffRate": 0.18473895582329317,
+        "lineYards": 2.8807228915662653,
+        "lineYardsTotal": 717,
+        "secondLevelYards": 1.1325301204819278,
+        "secondLevelYardsTotal": 282,
+        "openFieldYards": 1.5100401606425704,
+        "openFieldYardsTotal": 376,
+        "totalOpportunies": 38,
+        "pointsPerOpportunity": 2.973684210526316,
+        "fieldPosition": {
+          "averageStart": 70.7,
+          "averagePredictedPoints": -1.388
+        },
+        "havoc": {
+          "total": 0.18629550321199143,
+          "frontSeven": 0.12205567451820129,
+          "db": 0.06423982869379015
+        },
+        "standardDowns": {
+          "rate": 0.6702355460385439,
+          "ppa": 0.029395449938708438,
+          "successRate": 0.4249201277955272,
+          "explosiveness": 1.1418193536683017
+        },
+        "passingDowns": {
+          "rate": 0.3297644539614561,
+          "ppa": 0.20416896272236124,
+          "totalPPA": 29.40407982412647,
+          "successRate": 0.2987012987012987,
+          "explosiveness": 1.8048393204004016
+        },
+        "rushingPlays": {
+          "rate": 0.5331905781584583,
+          "ppa": 0.045135406690493575,
+          "totalPPA": 11.2387162659329,
+          "successRate": 0.40562248995983935,
+          "explosiveness": 1.064000063003313
+        },
+        "passingPlays": {
+          "rate": 0.4668094218415418,
+          "ppa": 0.13488110011067186,
+          "totalPPA": 29.40407982412647,
+          "successRate": 0.3577981651376147,
+          "explosiveness": 1.6335971334995896
+        }
+      }
+    },
+    "sp_ratings": {
+      "year": 2024,
+      "team": "Colorado",
+      "conference": "Big 12",
+      "rating": 7.7,
+      "ranking": 1,
+      "secondOrderWins": null,
+      "sos": null,
+      "offense": {
+        "ranking": 1,
+        "rating": 33.6,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "runRate": null,
+        "pace": null
+      },
+      "defense": {
+        "ranking": 1,
+        "rating": 25.6,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "havoc": {
+          "total": null,
+          "frontSeven": null,
+          "db": null
+        }
+      },
+      "specialTeams": {
+        "rating": -0.2
+      }
+    },
+    "fpi_ratings": {
+      "year": 2024,
+      "team": "Colorado",
+      "conference": "Big 12",
+      "fpi": 10.003,
+      "resumeRanks": {
+        "strengthOfRecord": 32,
+        "fpi": 24,
+        "averageWinProbability": 67,
+        "strengthOfSchedule": 69,
+        "remainingStrengthOfSchedule": 64,
+        "gameControl": 50
+      },
+      "efficiencies": {
+        "overall": 69.921,
+        "offense": 70.882,
+        "defense": 63.43,
+        "specialTeams": 42.679
+      }
+    },
+    "elo_ratings": {
+      "year": 2024,
+      "team": "Colorado",
+      "conference": "Big 12",
+      "elo": 1580
+    },
+    "srs_ratings": {
+      "year": 2024,
+      "team": "Colorado",
+      "conference": "Big 12",
+      "division": null,
+      "rating": "12.7",
+      "ranking": "1"
+    },
+    "record": {
+      "year": 2024,
+      "teamId": 38,
+      "team": "Colorado",
+      "conference": "Big 12",
+      "division": "",
+      "expectedWins": 3.8,
+      "total": {
+        "games": 7,
+        "wins": 5,
+        "losses": 2,
+        "ties": 0
+      },
+      "conferenceGames": {
+        "games": 4,
+        "wins": 3,
+        "losses": 1,
+        "ties": 0
+      },
+      "homeGames": {
+        "games": 3,
+        "wins": 2,
+        "losses": 1,
+        "ties": 0
+      },
+      "awayGames": {
+        "games": 4,
+        "wins": 3,
+        "losses": 1,
+        "ties": 0
+      }
+    },
+    "returning_production": {
+      "season": 2024,
+      "team": "Colorado",
+      "conference": "Pac-12",
+      "totalPPA": 290.1,
+      "totalPassingPPA": 138.8,
+      "totalReceivingPPA": 134.5,
+      "totalRushingPPA": 16.9,
+      "percentPPA": 0.667,
+      "percentPassingPPA": 0.994,
+      "percentReceivingPPA": 0.502,
+      "percentRushingPPA": 0.61,
+      "usage": 0.621,
+      "passingUsage": 0.992,
+      "receivingUsage": 0.414,
+      "rushingUsage": 0.232
+    },
+    "talent_ranking": {
+      "year": 2024,
+      "talent": "749.16"
+    }
+  },
+  "away_team_data": {
+    "season_stats": {
+      "season": 2024,
+      "team": "Cincinnati",
+      "conference": "Big 12",
+      "offense": {
+        "plays": 476,
+        "drives": 77,
+        "ppa": 0.23783991533807192,
+        "totalPPA": 113.21179970092223,
+        "successRate": 0.47058823529411764,
+        "explosiveness": 1.2616938425022386,
+        "powerSuccess": 0.7297297297297297,
+        "stuffRate": 0.22943722943722944,
+        "lineYards": 2.693939393939394,
+        "lineYardsTotal": 622,
+        "secondLevelYards": 1.0173160173160174,
+        "secondLevelYardsTotal": 235,
+        "openFieldYards": 1.844155844155844,
+        "openFieldYardsTotal": 426,
+        "totalOpportunies": 43,
+        "pointsPerOpportunity": 3.2790697674418605,
+        "fieldPosition": {
+          "averageStart": 70.5,
+          "averagePredictedPoints": 1.384
+        },
+        "havoc": {
+          "total": 0.14495798319327732,
+          "frontSeven": 0.10504201680672269,
+          "db": 0.03991596638655462
+        },
+        "standardDowns": {
+          "rate": 0.726890756302521,
+          "ppa": 0.13802507680746695,
+          "successRate": 0.5028901734104047,
+          "explosiveness": 1.019545875773658
+        },
+        "passingDowns": {
+          "rate": 0.27310924369747897,
+          "ppa": 0.5035009471195282,
+          "successRate": 0.38461538461538464,
+          "explosiveness": 2.1043687667176996
+        },
+        "rushingPlays": {
+          "rate": 0.4852941176470588,
+          "ppa": 0.08552752806961499,
+          "totalPPA": 19.756858984081063,
+          "successRate": 0.42857142857142855,
+          "explosiveness": 1.0013757700629087
+        },
+        "passingPlays": {
+          "rate": 0.5147058823529411,
+          "ppa": 0.3814487376197599,
+          "totalPPA": 93.45494071684118,
+          "successRate": 0.5102040816326531,
+          "explosiveness": 1.467865755874188
+        }
+      },
+      "defense": {
+        "plays": 442,
+        "drives": 76,
+        "ppa": 0.15832751405832504,
+        "totalPPA": 69.98076121377966,
+        "successRate": 0.4321266968325792,
+        "explosiveness": 1.2165903852188957,
+        "powerSuccess": 0.71875,
+        "stuffRate": 0.15315315315315314,
+        "lineYards": 3.494144144144144,
+        "lineYardsTotal": 776,
+        "secondLevelYards": 1.3198198198198199,
+        "secondLevelYardsTotal": 293,
+        "openFieldYards": 1.2837837837837838,
+        "openFieldYardsTotal": 285,
+        "totalOpportunies": 37,
+        "pointsPerOpportunity": 2.7837837837837838,
+        "fieldPosition": {
+          "averageStart": 69.3,
+          "averagePredictedPoints": -1.364
+        },
+        "havoc": {
+          "total": 0.18778280542986425,
+          "frontSeven": 0.1244343891402715,
+          "db": 0.06334841628959276
+        },
+        "standardDowns": {
+          "rate": 0.6990950226244343,
+          "ppa": 0.10441658918618886,
+          "successRate": 0.4886731391585761,
+          "explosiveness": 1.037821678787395
+        },
+        "passingDowns": {
+          "rate": 0.3009049773755656,
+          "ppa": 0.28357921169358874,
+          "totalPPA": 45.53132298836354,
+          "successRate": 0.3007518796992481,
+          "explosiveness": 1.8914422519978116
+        },
+        "rushingPlays": {
+          "rate": 0.502262443438914,
+          "ppa": 0.12911996831403288,
+          "totalPPA": 28.664632965715303,
+          "successRate": 0.49099099099099097,
+          "explosiveness": 0.7971447503987699
+        },
+        "passingPlays": {
+          "rate": 0.49547511312217196,
+          "ppa": 0.20790558442175133,
+          "totalPPA": 45.53132298836354,
+          "successRate": 0.3744292237442922,
+          "explosiveness": 1.774146168089551
+        }
+      }
+    },
+    "sp_ratings": {
+      "year": 2024,
+      "team": "Cincinnati",
+      "conference": "Big 12",
+      "rating": 7.5,
+      "ranking": 1,
+      "secondOrderWins": null,
+      "sos": null,
+      "offense": {
+        "ranking": 1,
+        "rating": 31.5,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "runRate": null,
+        "pace": null
+      },
+      "defense": {
+        "ranking": 1,
+        "rating": 24,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "havoc": {
+          "total": null,
+          "frontSeven": null,
+          "db": null
+        }
+      },
+      "specialTeams": {
+        "rating": 0
+      }
+    },
+    "fpi_ratings": {
+      "year": 2024,
+      "team": "Cincinnati",
+      "conference": "Big 12",
+      "fpi": 6.394,
+      "resumeRanks": {
+        "strengthOfRecord": 45,
+        "fpi": 34,
+        "averageWinProbability": 10,
+        "strengthOfSchedule": 89,
+        "remainingStrengthOfSchedule": 30,
+        "gameControl": 16
+      },
+      "efficiencies": {
+        "overall": 72.949,
+        "offense": 77.289,
+        "defense": 58.911,
+        "specialTeams": 48.886
+      }
+    },
+    "elo_ratings": {
+      "year": 2024,
+      "team": "Cincinnati",
+      "conference": "Big 12",
+      "elo": 1554
+    },
+    "srs_ratings": {
+      "year": 2024,
+      "team": "Cincinnati",
+      "conference": "Big 12",
+      "division": null,
+      "rating": "8.4",
+      "ranking": "1"
+    },
+    "record": {
+      "year": 2024,
+      "teamId": 2132,
+      "team": "Cincinnati",
+      "conference": "Big 12",
+      "division": "",
+      "expectedWins": 4.1,
+      "total": {
+        "games": 7,
+        "wins": 5,
+        "losses": 2,
+        "ties": 0
+      },
+      "conferenceGames": {
+        "games": 4,
+        "wins": 3,
+        "losses": 1,
+        "ties": 0
+      },
+      "homeGames": {
+        "games": 4,
+        "wins": 3,
+        "losses": 1,
+        "ties": 0
+      },
+      "awayGames": {
+        "games": 3,
+        "wins": 2,
+        "losses": 1,
+        "ties": 0
+      }
+    },
+    "returning_production": {
+      "season": 2024,
+      "team": "Cincinnati",
+      "conference": "Big 12",
+      "totalPPA": 128,
+      "totalPassingPPA": 2.1,
+      "totalReceivingPPA": 78.5,
+      "totalRushingPPA": 47.5,
+      "percentPPA": 0.315,
+      "percentPassingPPA": 0.025,
+      "percentReceivingPPA": 0.399,
+      "percentRushingPPA": 0.385,
+      "usage": 0.33,
+      "passingUsage": 0.095,
+      "receivingUsage": 0.45,
+      "rushingUsage": 0.452
+    },
+    "talent_ranking": {
+      "year": 2024,
+      "talent": "662.34"
+    }
+  }
+}
